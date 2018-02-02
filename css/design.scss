@@ -1,0 +1,95 @@
+.design {
+  padding: 100px 0 90px;
+  background: url("../img/design/bg-for-double-camera.jpeg") no-repeat 100% 0%;
+  -webkit-background-size: cover;
+  background-size: cover; }
+@media (min-width: 100px) and (max-width: 1024px) {
+  .design {
+    background-position: 35% 0%; } }
+@media (min-width: 100px) and (max-width: 768px) {
+  .design {
+    background-position: 27% 0%;
+    padding: 55px 0 90px; } }
+@media (min-width: 100px) and (max-width: 667px) {
+  .design {
+    padding: 50px 0 55px; } }
+.design .flex-ct-end .design-description {
+  width: 50%;
+  padding: 0 25px 0 0; }
+.design .flex-ct-end .design-description h2 {
+  color: #000000;
+  font-family: 'SFUIDisplay-Bold', sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  margin: 0 0 70px; }
+@media (min-width: 100px) and (max-width: 768px) {
+  .design .flex-ct-end .design-description h2 {
+    font-size: 32px;
+    line-height: 32px;
+    margin: 0 0 40px; } }
+@media (min-width: 100px) and (max-width: 480px) {
+  .design .flex-ct-end .design-description h2 {
+    text-align: center;
+    font-size: 30px;
+    line-height: 30px; } }
+.design .flex-ct-end .design-description p {
+  color: #000000;
+  font-family: 'SFUIDisplay-Regular', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0.45px; }
+.design .flex-ct-end .design-description p span {
+  font-size: 18px;
+  color: #000000;
+  font-family: 'SFUIDisplay-Bold', sans-serif;
+  letter-spacing: 0.45px;
+  font-weight: 700; }
+@media (min-width: 100px) and (max-width: 768px) {
+  .design .flex-ct-end .design-description p span {
+    font-size: 16px;
+    line-height: 20px; } }
+@media (min-width: 100px) and (max-width: 480px) {
+  .design .flex-ct-end .design-description p span {
+    margin: 0 0 30px;
+    text-align: justify;
+    font-size: 14px;
+    line-height: 21px; } }
+@media (min-width: 100px) and (max-width: 768px) {
+  .design .flex-ct-end .design-description p {
+    font-size: 16px;
+    line-height: 20px; } }
+@media (min-width: 100px) and (max-width: 480px) {
+  .design .flex-ct-end .design-description p {
+    margin: 0 0 30px;
+    text-align: justify;
+    font-size: 14px;
+    line-height: 21px; } }
+@media (min-width: 100px) and (max-width: 568px) {
+  .design .flex-ct-end .design-description {
+    width: 65%;
+    padding: 0; } }
+@media (min-width: 100px) and (max-width: 480px) {
+  .design .flex-ct-end .design-description {
+    width: 100%; } }
+.design .flex-ct-end .design_320-img {
+  display: none;
+  width: 280px;
+  height: 200px;
+  margin: 0 auto; }
+@media (min-width: 100px) and (max-width: 480px) {
+  .design .flex-ct-end .design_320-img {
+    display: block; } }
+@media (min-width: 100px) and (max-width: 480px) {
+  .design .flex-ct-end {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column; } }
+@media (min-width: 100px) and (max-width: 480px) {
+  .design {
+    background-color: #fafafa;
+    background-image: none;
+    padding-bottom: 0; } }

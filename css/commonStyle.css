@@ -1,0 +1,16 @@
+.container {
+  width: 1175px;
+  height: auto;
+  margin: auto; }
+  .container a:hover, .container .container button:hover {
+    cursor: pointer; }
+
+@media screen and (max-width: 1199px) {
+  .container {
+    width: auto;
+    padding: 0 15px; } }
+@media (min-width: 100px) and (max-width: 1198px) {
+  .container {
+    width: 90%; } }
+
+/*# sourceMappingURL=commonStyle.css.map */
