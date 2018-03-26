@@ -6,6 +6,9 @@
     cursor: pointer;
   }
 }
+a, button, span {
+  transition: .3s;
+}
 
 @media screen and (max-width: 1199px) {
   .container {
